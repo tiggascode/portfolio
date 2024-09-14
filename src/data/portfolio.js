@@ -7,7 +7,7 @@ export default [
     },
     {
         title: 'Developer Portfolio',
-        imgUrl: '/assets/',
+        imgUrl: '/assets/portfolio.png',
         stack: ['React', 'Tailwind', 'Vite'],
         link: 'https://github.com/tiggascode/portfolio'
     },
