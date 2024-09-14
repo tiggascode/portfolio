@@ -43,6 +43,12 @@ function Footer() {
                                 </g>
                             </svg>
                         </a>
+                        <a
+                            href="https://t.me/y0UNGcOd3Rlife"
+                            className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full">
+                            <img src="/assets/telegram.png" alt="" className="w-6"/>
+ 
+                        </a>
                     </div>
                 </div>
             </div>
