@@ -12,9 +12,9 @@ export default [
         link: 'https://github.com/tiggascode/portfolio'
     },
     {
-        title: 'Task Manager',
-        imgUrl: '/assets/task-manager.png',
+        title: 'Blog',
+        imgUrl: '/assets/blog.png',
         stack: ['Laravel', 'React', 'Tailwind'],
-        link: 'https://github.com/tiggascode/task-manager'
+        link: 'https://github.com/tiggascode/laravel-react-blog'
     },
 ]
